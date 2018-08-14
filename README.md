@@ -21,3 +21,12 @@ yarn start
 ```bash
 yarn build
 ```
+
+## License
+
+[![license-badge]][license-link]
+
+
+<!-- Link -->
+[license-badge]:    https://img.shields.io/github/license/mashape/apistatus.svg
+[license-link]:     https://opensource.org/licenses/MIT
