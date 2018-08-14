@@ -1,0 +1,17 @@
+<svg width="116px" height="47px" viewBox="0 -2 116 47" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40 (33762) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="60" height="45"></rect>
+    </defs>
+    <text id="辩论圈" stroke="none" fill="none" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="35" font-weight="normal" letter-spacing="0.420000017">
+        <tspan x="7.36999997" y="35" fill="#FF3860">辩论圈</tspan>
+    </text>
+    <mask id="mask-2" fill="white">
+        <use xlink:href="#path-1"></use>
+    </mask>
+    <g id="Rectangle-3" stroke="none" fill="none"></g>
+    <text id="辩论圈" stroke="none" fill="none" mask="url(#mask-2)" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="35" font-weight="normal" letter-spacing="0.420000017">
+        <tspan x="7.36999997" y="35" fill="#3273DC">辩论圈</tspan>
+    </text>
+</svg>

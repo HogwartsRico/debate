@@ -1,0 +1,49 @@
+.b-arguments {
+  margin-top: 0.5rem;
+  background-color: $white;
+
+  .ant-list-header {
+    padding-left: 1rem;
+  }
+
+  .argument-item {
+    padding: 1rem;
+
+    .author {
+      .avatar {
+        margin-right: 0.2rem;
+      }
+
+      .username {
+        color: $grey-darker;
+      }
+    }
+
+    .viewpoint {
+      float: right;
+      padding: 0;
+    }
+
+    .content {
+      color: $dark;
+      white-space: pre-line;
+
+      p {
+        margin-bottom: 0.5rem;
+      }
+
+      .time {
+        color: $grey;
+        font-size: 0.8rem;
+      }
+    }
+
+    .ant-list-item-meta {
+      margin-bottom: 0.5rem;
+
+      .ant-list-item-meta-title {
+        overflow: hidden;
+      }
+    }
+  }
+}

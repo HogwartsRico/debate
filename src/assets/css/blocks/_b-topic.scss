@@ -1,0 +1,69 @@
+.b-topic {
+  padding: 1rem;
+  background-color: $white;
+
+  @media screen and (min-width: 720px) {
+    padding: 1.5rem 2rem 1rem;
+  }
+
+  .title {
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+  }
+
+  .description {
+    margin-bottom: 0.5rem;
+    color: $grey;
+  }
+
+  .viewpoints {
+    margin-top: 0.5rem;
+    margin-bottom: 0;
+    font-weight: bold;
+
+    .ant-tag {
+      margin-right: 0;
+      cursor: pointer;
+    }
+
+    .pro {
+      color: $blue;
+    }
+
+    .con {
+      color: $red;
+      padding: 0;
+    }
+  }
+
+  .viewpoints-progress {
+    .ant-progress-inner {
+      background-color: $red;
+      overflow: hidden;
+
+      .ant-progress-bg {
+        background-color: $blue;
+        border-top-right-radius: 0;
+        border-bottom-right-radius: 0;
+      }
+    }
+  }
+
+  .viewpoints-votes {
+    font-weight: bold;
+    margin-bottom: 0;
+
+    .ant-tag {
+      margin-right: 0;
+    }
+  }
+
+  .topic-footer {
+    margin-top: 0.5rem;
+    color: $grey-light;
+
+    .divider {
+      margin: 0 0.2rem;
+    }
+  }
+}

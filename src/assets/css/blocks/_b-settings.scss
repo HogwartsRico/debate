@@ -1,0 +1,22 @@
+.b-settings {
+  .settings-item {
+    margin-bottom: 0.5rem;
+
+    .settings-item-title {
+      float: left;
+      width: 5rem;
+    }
+
+    .settings-item-content {
+      a {
+        margin-left: 1rem;
+      }
+    }
+  }
+
+  .password-form {
+    .ant-form-item {
+      max-width: 320px;
+    }
+  }
+}

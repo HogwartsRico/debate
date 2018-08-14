@@ -1,0 +1,20 @@
+.b-sign {
+  display: flex;
+  align-items: center;
+  min-height: 100vh;
+
+  .sign-form {
+    width: 90%;
+    max-width: 380px;
+    margin: 0 auto;
+
+    .ant-card-head-title {
+      text-align: center;
+      font-size: 2rem;
+    }
+
+    .form-button {
+      width: 100%;
+    }
+  }
+}
